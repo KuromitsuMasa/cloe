@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${SUBMODULES}/MX_Alps_hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "THymbols")(type "KiCad")(uri "${SUBMODULES}/ncSymbols/ncSymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "SparkFun-Boards")(type "Legacy")(uri "${SUBMODULES}/SparkFun-KiCad-Libraries/Libraries/SparkFun-Boards.lib")(options "")(descr ""))
+)
